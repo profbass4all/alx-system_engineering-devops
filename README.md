@@ -1,1 +1,2 @@
-Alx
+#!/bin/bash
+Alx school
