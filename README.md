@@ -1,2 +1,1 @@
-#!/bin/bash
-Alx school
+readme.md
